@@ -1,2 +1,3 @@
 	name: Xuening (Shirley) Zhang
 	markdown: kramdown
+	permalink: /blog/:year/:month/:day/:title
